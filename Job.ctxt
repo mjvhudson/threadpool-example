@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Job
+comment0.text=\r\n\ Does\ job\ things.\r\n\r\n\ @Matt\r\n\ @Version\ 1\r\n
+comment1.params=jobNumber
+comment1.target=Job(int)
+comment2.params=
+comment2.target=void\ run()
+numComments=3
