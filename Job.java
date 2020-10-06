@@ -1,3 +1,9 @@
+/**
+ * Does job things.
+ *
+ * @Matt
+ * @Version 1
+ */
 public class Job implements Runnable {
  private int jobNumber;
 
